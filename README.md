@@ -1,4 +1,11 @@
 # GUIDeFATE
+
+## Begin NOTE 
+
+The text following this note is the original README obtained from the original author's version 0.11. It has not been modified in any way except to add his name, contact data, and similar information in this notice.
+
+## End NOTE
+
 GUI Design From A Text Editor
 
 Designing a graphical User interface requires knowledge of things like toolkit libraries, platform context etc.  At least I think it does.  I am a relatively new programmer in that I have near zero experience in GUI programming outside a web page.  So when I explore how to design an application which works outside a command line or a browser window, I feel tremendously out of my depth.  When I see the programming interfaces to these interfaces (QT, GTK, TK, ncurses, HTML) my bewilderment reaches even greater heights.
